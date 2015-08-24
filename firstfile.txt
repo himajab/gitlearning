@@ -3,4 +3,4 @@ Second line
 Third line by user 2
 Fourth line
 Fifth line
-Sixth line from user2
+Sixth line by user1
